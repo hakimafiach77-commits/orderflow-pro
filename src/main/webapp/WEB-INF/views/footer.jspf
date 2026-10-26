@@ -1,0 +1,15 @@
+        </main>
+
+        <footer class="footer">
+            © 2026 OrderFlow Pro
+            <span>·</span>
+            Application Java EE · FST Tanger
+        </footer>
+
+    </div>
+</div>
+
+<script src="${pageContext.request.contextPath}/assets/js/app.js"></script>
+
+</body>
+</html>
